@@ -1,0 +1,14 @@
+{
+  "name": "t1y-wechat-app-demo",
+  "version": "1.0.0",
+  "description": "这是一个 T1 后端云 `微信小程序` 使用例子。使用前请修改 `api/t1y.js` 中的密钥信息并在小程序白名单中添加该文件中的域名，确保请求不会被拦截。",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
